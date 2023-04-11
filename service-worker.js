@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://zertini.github.io/csb-r7v6ck/precache-manifest.c85d684f54e3bd480de9430d46400d85.js"
+  "https://zertini.github.io/csb-r7v6ck/precache-manifest.7349202a0ff7c738face43723d7656bf.js"
 );
 
 self.addEventListener('message', (event) => {
